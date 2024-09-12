@@ -7,10 +7,8 @@ A modern and responsive e-learning platform that provides courses in various fie
 - [Features](#features)
 - [Technologies](#technologies)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
+- [Usage](#usage)
 
 ## Features
 
