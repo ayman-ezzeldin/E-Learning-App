@@ -35,15 +35,15 @@ To run this project locally:
 1. Clone the repository:
 ```
 git clone https://github.com/ayman-ezzeldin/E-Learning-App.git
-
+```
 2. Install the dependencies:
 ```
 npm install
-
+```
 3. Start the development server:
 ```
 npm run dev
-
+```
 ## Screenshots
 
 Here are some screenshots of the e-learning platform:
